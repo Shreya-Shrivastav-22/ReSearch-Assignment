@@ -28,22 +28,4 @@ Below is the high-level architecture of the ReSearch framework:
 - **Search Results**: Stores the intermediate retrieved data.
 - **Final Answer**: The system’s response after reasoning.
 
----
-
-## 📁 Repository Structure
-
-```bash
-ReSearch/
-├── report/                 # PDF technical report
-│   └── ReSearch_Report.pdf
-├── presentation/           # PPT slides
-│   └── ReSearch_Presentation.pptx
-├── code/                   # Main codebase
-│   ├── main.py
-│   ├── search_module.py
-│   ├── reasoning_module.py
-│   └── utils.py
-├── requirements.txt        # Required libraries
-└── README.md               # This file
-
 
